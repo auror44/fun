@@ -1,0 +1,6 @@
+class MainPage():
+
+    def ana_bina(self):
+
+        return '
+        
